@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20[Your%20Name]!&fontSize=40&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20[Muhammad Albab Nawaz]!&fontSize=40&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <h1 align="center">👋 Full-Stack AI Developer | BS in Computer Science</h1>
@@ -55,9 +55,9 @@ Explore more in my repositories!
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=dracula&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Albab001]&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Albab001]&theme=dracula&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Albab001]&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
