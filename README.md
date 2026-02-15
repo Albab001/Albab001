@@ -74,11 +74,12 @@ Explore more → [Repositories](https://github.com/Albab001?tab=repositories)
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albab001&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albab001&theme=dracula&hide_border=true" alt="Contribution Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albab001&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Albab001&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Albab001&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albab001&theme=dracula&hide_border=true&layout=compact&cache_seconds=86400" />
+</p>
+
 
 ---
 
