@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://www.accelirate.com/wp-content/uploads/2025/03/uipath_agent_builder_features.gif" alt="Developer building AI agents" width="600" />
+  <img src="https://www.accelirate.com/wp-content/uploads/2025/03/uipath_agent_builder_features.gif" alt="Developer building AI agents" width="400" />
   <p><em>Building intelligent agents and automation systems</em></p>
 </div>
 
@@ -33,6 +33,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 #### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,11 +53,16 @@
 ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3A57?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4285F4?style=for-the-badge&logo=langgraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge&logo=crewai&logoColor=white)
 
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-000000?style=for-the-badge&logo=gradio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6B46C1?style=for-the-badge&logo=model-context-protocol&logoColor=white)
 
 ### 🌟 Featured Projects
 
@@ -72,15 +80,23 @@
 
 Explore more → [Repositories](https://github.com/Albab001?tab=repositories)
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=7200" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Albab001&theme=dark&hide_border=true&cache_seconds=7200" alt="Contribution Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=7200" alt="GitHub Stats Overview" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Albab001&theme=dark&hide_border=true&cache_seconds=7200" alt="Contribution Streak" width="48%" />
 </div>
+
+### 📈 Top Languages Breakdown
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&cache_seconds=7200" alt="Top Languages by Repository Usage" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1&show_icons=true&cache_seconds=7200" alt="Top Languages by Commit Activity" width="48%" />
+</div>
+
+<p align="center">
+  <em>Left: Weighted by repo size & count (default) • Right: Prioritized by commit count</em>
+</p>
 
 ---
 
