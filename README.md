@@ -26,6 +26,17 @@
 - **Specialization** — Agentic AI • RAG pipelines • NLP applications • TTS systems • Intelligent automation • Full-stack AI platforms  
 - **Mission** — To deliver clean, scalable, and dependable AI-powered solutions that give clients a real competitive advantage  
 
+---
+
+### 💡 Solutions I Build
+• LLM apps & chatbots (OpenAI/Claude/Gemini, LangChain, tools/agents, function calling)  
+• RAG over your data (vector DBs, embeddings, secure retrieval, citations/evals)  
+• AI automations (n8n, CRM, Slack, email, and data pipelines)  
+• SaaS products & dashboards (React/Next.js frontends, FastAPI/Node backends, auth, billing, analytics)  
+• Mobile features with React Native when you need cross-platform reach  
+
+---
+
 ### 🛠️ Skills & Technologies
 
 #### Programming Languages
@@ -36,6 +47,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
+---
+
 #### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -43,6 +56,11 @@
 ![gRPC](https://img.shields.io/badge/gRPC-01579B?style=for-the-badge&logo=grpc&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Frameworks & APIs:**  
+React • Next.js • FastAPI • Node • Express • NestJS • REST • GraphQL • WebSockets • React Native  
+
+---
 
 #### AI / ML / Automation
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -54,12 +72,24 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-4285F4?style=for-the-badge&logo=langgraph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge&logo=crewai&logoColor=white)
 
+**AI Stack:**  
+Python • OpenAI API • Claude • Gemini • LangChain • Agents • Function Calling • Embeddings • RAG • Vector DBs (Pinecone, FAISS) • scikit-learn • PyTorch • TensorFlow • OpenCV  
+
+---
+
+#### Data & Infrastructure
+PostgreSQL • MongoDB  • Docker • CI/CD • AWS • GCP • Observability • Logging • Data Pipelines  
+
+---
+
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-000000?style=for-the-badge&logo=gradio&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6B46C1?style=for-the-badge&logo=model-context-protocol&logoColor=white)
+
+---
 
 ### 🌟 Featured Projects
 
@@ -77,16 +107,19 @@
 
 Explore more → [Repositories](https://github.com/Albab001?tab=repositories)
 
+---
+
 ### 📊 GitHub Activity Overview
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com?user=Albab001&theme=dark&hide_border=true)
 
+---
+
 ### 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albab001&theme=dark&hide_border=true&layout=compact)
-
 
 <p align="center">
   <em>Left: Weighted by repo size & count (default) • Right: Prioritized by commit count</em>
