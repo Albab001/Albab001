@@ -82,17 +82,14 @@ Explore more → [Repositories](https://github.com/Albab001?tab=repositories)
 
 ### 📊 GitHub Activity Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=7200" alt="GitHub Stats Overview" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Albab001&theme=dark&hide_border=true&cache_seconds=7200" alt="Contribution Streak" width="48%" />
-</div>
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-### 📈 Top Languages Breakdown
+![Streak](https://streak-stats.demolab.com?user=Albab001&theme=dark&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&cache_seconds=7200" alt="Top Languages by Repository Usage" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1&show_icons=true&cache_seconds=7200" alt="Top Languages by Commit Activity" width="48%" />
-</div>
+### 📈 Top Languages
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albab001&theme=dark&hide_border=true&layout=compact)
+
 
 <p align="center">
   <em>Left: Weighted by repo size & count (default) • Right: Prioritized by commit count</em>
