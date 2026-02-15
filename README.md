@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://www.accelirate.com/wp-content/uploads/2025/03/uipath_agent_builder_features.gif" alt="Developer building AI agents" width="400" />
+  <img src="https://www.accelirate.com/wp-content/uploads/2025/03/uipath_agent_builder_features.gif" alt="Developer building AI agents" width="600" />
   <p><em>Building intelligent agents and automation systems</em></p>
 </div>
 
