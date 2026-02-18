@@ -36,8 +36,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
----
-
 #### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -45,8 +43,6 @@
 ![gRPC](https://img.shields.io/badge/gRPC-01579B?style=for-the-badge&logo=grpc&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
 
 #### AI / ML / Automation
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -58,8 +54,6 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-4285F4?style=for-the-badge&logo=langgraph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge&logo=crewai&logoColor=white)
 
----
-
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,40 +61,25 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6B46C1?style=for-the-badge&logo=model-context-protocol&logoColor=white)
 
----
-
 ### 🌟 Featured Projects
 
-- **[Story-Audio-TTS Microservice](https://github.com/Albab001/Story-Audio-TTS--Microservice)**  
-  Production-grade microservice that turns story prompts into emotionally rich audio using Falcon-RW-1B text enhancement + Kokoro-82M TTS. Includes gRPC API, async processing, audio stitching with crossfades, Docker deployment, and Gradio UI.
+| Project Name                          | Repository Link                                                                 | Description |
+|---------------------------------------|---------------------------------------------------------------------------------|-------------|
+| **Story-Audio-TTS Microservice**      | [View Repo](https://github.com/Albab001/Story-Audio-TTS--Microservice)          | Production-grade microservice that transforms story prompts into emotionally rich audio narratives. Uses Falcon-RW-1B for intelligent text enhancement and Kokoro-82M for high-quality TTS. Includes gRPC API, async processing, smooth audio stitching with crossfades, Docker deployment, and Gradio frontend. |
+| **Qatar Labor Laws Chatbot**          | [View Repo](https://github.com/Albab001/Qatar-Labor-Laws-Chatbot)               | Accurate, RAG-powered legal assistant delivering grounded answers on Qatar labor regulations. Built with n8n automated data pipelines into Supabase vector store, Cohere embeddings, and Groq LLM inference. Features secure responses, context-aware handling, and intuitive Gradio interface. |
+| **GBR – AI Consultation Platform**    | [View Repo](https://github.com/Albab001/GBR)                                    | Full-stack intelligent matching system connecting clients with domain experts. Supports secure registration, detailed consultation requests, and AI-driven expert allocation based on requirements. Clean React frontend with reliable backend logic and smooth user flows. |
+| **LLM Explorer 2026**                 | [View Repo](https://github.com/Albab001/LLM-Chatbot)                            | Modern full-stack web application for exploring 60+ LLMs. Includes ranked leaderboard, fuzzy search, semantic model matching, and RAG-powered chatbot. Powered by React + Tailwind frontend, Express backend, Supabase pgvector, Cohere embeddings, and Groq inference. |
 
-- **[Qatar Labor Laws Chatbot](https://github.com/Albab001/Qatar-Labor-Laws-Chatbot)**  
-  RAG-powered legal assistant delivering accurate Qatar labor law answers. Built with n8n data pipelines → Supabase vector store → Cohere embeddings → Groq LLM inference. Features secure, grounded responses and intuitive Gradio interface.
-
-- **[GBR – AI Consultation & Expert Matching Platform](https://github.com/Albab001/GBR)**  
-  Full-stack system for intelligent client–expert matching. Clients submit requests, AI analyzes requirements and automatically allocates the best-suited expert. Clean React frontend, robust backend logic, and reliable user flows.
-
-- **[LLM Explorer 2026](https://github.com/Albab001/LLM-Chatbot)**  
-  Modern web app showcasing 60+ LLMs with leaderboard, fuzzy search, semantic model matching, and RAG chatbot. Powered by React + Tailwind + Express + Supabase pgvector + Cohere embeddings + Groq inference.
-
-Explore more → [Repositories](https://github.com/Albab001?tab=repositories)
-
----
+Explore more projects → [All Repositories](https://github.com/Albab001?tab=repositories)
 
 ### 📊 GitHub Activity Overview
-
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
 ![Streak](https://streak-stats.demolab.com?user=Albab001&theme=dark&hide_border=true)
 
----
-
 ### 📈 Top Languages
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Albab001&theme=dark&hide_border=true&layout=compact)
-
 <p align="center">
-  <em>Left: Weighted by repo size & count (default) • Right: Prioritized by commit count</em>
+  <em>Weighted by repo size & count (default view)</em>
 </p>
 
 ---
