@@ -26,6 +26,8 @@
 - **Specialization** — Agentic AI • RAG pipelines • NLP applications • TTS systems • Intelligent automation • Full-stack AI platforms  
 - **Mission** — To deliver clean, scalable, and dependable AI-powered solutions that give clients a real competitive advantage  
 
+---
+
 ### 🛠️ Skills & Technologies
 
 #### Programming Languages
@@ -36,6 +38,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
+---
+
 #### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -43,6 +47,8 @@
 ![gRPC](https://img.shields.io/badge/gRPC-01579B?style=for-the-badge&logo=grpc&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
 
 #### AI / ML / Automation
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -54,12 +60,16 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-4285F4?style=for-the-badge&logo=langgraph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge&logo=crewai&logoColor=white)
 
+---
+
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-000000?style=for-the-badge&logo=gradio&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6B46C1?style=for-the-badge&logo=model-context-protocol&logoColor=white)
+
+---
 
 ### 🌟 Featured Projects
 
@@ -71,6 +81,8 @@
 | **LLM Explorer 2026**                 | [View Repo](https://github.com/Albab001/LLM-Chatbot)                            | Modern full-stack web application for exploring 60+ LLMs. Includes ranked leaderboard, fuzzy search, semantic model matching, and RAG-powered chatbot. Powered by React + Tailwind frontend, Express backend, Supabase pgvector, Cohere embeddings, and Groq inference. |
 
 Explore more projects → [All Repositories](https://github.com/Albab001?tab=repositories)
+
+---
 
 ### 📊 GitHub Activity Overview
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Albab001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
