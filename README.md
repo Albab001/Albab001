@@ -26,17 +26,6 @@
 - **Specialization** — Agentic AI • RAG pipelines • NLP applications • TTS systems • Intelligent automation • Full-stack AI platforms  
 - **Mission** — To deliver clean, scalable, and dependable AI-powered solutions that give clients a real competitive advantage  
 
----
-
-### 💡 Solutions I Build
-• LLM apps & chatbots (OpenAI/Claude/Gemini, LangChain, tools/agents, function calling)  
-• RAG over your data (vector DBs, embeddings, secure retrieval, citations/evals)  
-• AI automations (n8n, CRM, Slack, email, and data pipelines)  
-• SaaS products & dashboards (React/Next.js frontends, FastAPI/Node backends, auth, billing, analytics)  
-• Mobile features with React Native when you need cross-platform reach  
-
----
-
 ### 🛠️ Skills & Technologies
 
 #### Programming Languages
@@ -57,9 +46,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Frameworks & APIs:**  
-React • Next.js • FastAPI • Node • Express • NestJS • REST • GraphQL • WebSockets • React Native  
-
 ---
 
 #### AI / ML / Automation
@@ -71,14 +57,6 @@ React • Next.js • FastAPI • Node • Express • NestJS • REST • Graph
 ![LangChain](https://img.shields.io/badge/LangChain-1C3A57?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4285F4?style=for-the-badge&logo=langgraph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge&logo=crewai&logoColor=white)
-
-**AI Stack:**  
-Python • OpenAI API • Claude • Gemini • LangChain • Agents • Function Calling • Embeddings • RAG • Vector DBs (Pinecone, FAISS) • scikit-learn • PyTorch • TensorFlow • OpenCV  
-
----
-
-#### Data & Infrastructure
-PostgreSQL • MongoDB  • Docker • CI/CD • AWS • GCP • Observability • Logging • Data Pipelines  
 
 ---
 
